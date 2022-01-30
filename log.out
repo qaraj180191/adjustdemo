@@ -1,0 +1,210 @@
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  api.BaseAPI  - Creating request
+[main] INFO  api.BaseAPI  - Executing request
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/xml
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[main] INFO  test.BaseTest  - Properties Initialized
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-1] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsing response as: application/json
+[TestNG-test=DemoTest-2] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder  - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
